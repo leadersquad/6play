@@ -1,0 +1,6 @@
+token=NDkyMjE4NjA2NjAwNDU0MTQ0.Dtj_sw.Iu5147QtbaIIWozwu5mwsCcdpSg
+owner=490803489765720064
+prefix= 6
+game= Type 6help
+stayinchannel=true
+songinstatus=true
